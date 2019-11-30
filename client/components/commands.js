@@ -1,4 +1,4 @@
-export function place(x, y, f) {
+export function place (x, y, f) {
 }
 
 export function move () {
