@@ -41,7 +41,8 @@
     "@babel/plugin-proposal-object-rest-spread": "^7.4.3",
     "@babel/preset-env": "^7.4.3",
     "@babel/preset-react": "^7.0.0",
-    "@material-ui/icons" : 
+    "@material-ui/core" : "^4.7.0",
+    "@material-ui/icons" : "^4.5.1",
     "babel-core": "^7.0.0-bridge.0",
     "babel-jest": "^24.7.1",
     "babel-loader": "^8.0.5",
