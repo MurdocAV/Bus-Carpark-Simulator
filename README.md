@@ -18,4 +18,4 @@ Get a functional bus to move around a carpark.
   1. Display user inputs. (Formatted for client)
   2. Display simple rendering of Bus.
 
-If you try copy this code for a job interview, you might get the job tbh, if you're white that is. Rather than brown with an attitude. Jks, idk, I'm getting sick of this shit. Changing that attitud, just for employment reasons.
+If you try copy this code for a job interview, you might get the job tbh, if you're white that is. Rather than brown with an attitude. Jks, idk, I'm getting sick of this shit. Over 30 interview tests done and it's not only a matter of bad code. I tutored people who have jobs with the big tech comapnines in NZ. Changing that attitude, just for employment reasons.
