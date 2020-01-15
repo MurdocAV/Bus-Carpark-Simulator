@@ -16,7 +16,7 @@ Get a functional bus to move around a carpark.
   
   
   17 Dec 2019: Made aware of not getting the job.
-              Stated reasons:  
-                1. Lots of redundant code  
-                2. Some react components used incorrectly  
-                3. Inconsistent coding style  
+       Stated reasons:  
+ >> 1. Lots of redundant code  
+ >> 2. Some react components used incorrectly  
+ >> 3. Inconsistent coding style  
